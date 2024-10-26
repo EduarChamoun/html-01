@@ -1,0 +1,34 @@
+/* selector por tag */
+h1 {
+    color:rgb(230, 108, 8);
+}
+
+h2 {
+    color:beige;
+}
+article{
+    color:crimson
+}
+
+ul {
+    color:cyan;
+}
+
+header p {
+    color:rgb(32, 190, 32);
+}
+article h2 {
+    color:rgb(202, 125, 125)
+}
+/* selector por clases */
+.titulo2 {
+    color: rgb(31, 221, 47);
+}
+.clasea {
+    font-size: 10rem;
+}
+
+/* selector por id */
+#text-a1 {
+    color: darkred;
+}
